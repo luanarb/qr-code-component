@@ -11,7 +11,9 @@ Este projeto consiste em um componente de QR Code com:
 * Layout responsivo
 * Fonte Outfit
 * Estilização utilizando CSS
+## 📸 Preview
 
+![Preview do projeto](./images/qr-code-screenshot.png)
 ## 🛠️ Tecnologias utilizadas
 
 * HTML5
