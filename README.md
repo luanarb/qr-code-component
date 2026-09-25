@@ -14,6 +14,11 @@ Este projeto consiste em um componente de QR Code com:
 ## 📸 Preview
 
 ![Preview do projeto](./images/qr-code-screenshot.png)
+
+## 🔗 Site
+
+[Ver projeto online](https://qr-code-component-beta-three.vercel.app/)
+
 ## 🛠️ Tecnologias utilizadas
 
 * HTML5
